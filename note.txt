@@ -1,9 +1,2 @@
-This is the file node.txt
-
-
-Today is Oct 13
-
-
-
-
+This is note file
 

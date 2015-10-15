@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-This is edited by the 
-
-=======
-This is note file
->>>>>>> b2
-
-Sub Branch -.-
